@@ -1,0 +1,8 @@
+#on ignore le dossier de intellij:
+.idea/
+
+# le dossier de cache:
+cache/
+
+# aussi le fichier de password:
+password.txt
